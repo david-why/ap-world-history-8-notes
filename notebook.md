@@ -4,6 +4,7 @@
 ## Random vocabulary
 - **Identify**: Give a name of the thing.
 - **Describe**: Identify, and tell a bit more about it.
+- **Contextualization**: Showing how the process/development relates to other things in the period of time
 - **Historical development**: A thing that happened in the past, just once.
 - **Historical process**: A thing that happened in the past gradually over time.
     * To write clearly about a process, say something like *the weakening of the Ming Dynasty*, instead of *the Ming Dynasty fell*.
@@ -62,3 +63,61 @@ Cultural traditions
     1. Population explosion: Population *DOUBLES*! End of Song, China = 40% population of world
     2. Political safety: Mandate of Heaven kept even with 1012 drought
     3. Food security => More specialization: No need to wonder where the next meal will come from, so people can pend time worrying about specializing and getting better at what they like
+
+### Intellectual innovation
+* Three things
+    * Preservation and commentary of Greeks
+    * Baghdad House of Wisdom
+    * Scholarly and cultural transfer in Muslim and Christian Spain
+
+* **CORE TAKEAWAY**: Muslims are smart and they collected knowledge around the world and shared their smartness with others through trade
+
+* What is the House of Wisdom? We need ***context***
+    * *Spread of Islam*: How did those book translators get powerful?
+    * *"Dark ages" in Europe*: Why are *Muslims* translating European stuff instead of themselves?
+    * *Spread of trade networks*: How Muslims spread this good intellectual stuff
+
+* **Spread of Islam**
+    * Muhammad created in the 600s
+    * At first stays pretty much local in the region
+    * After Muhammad's death Umayyad Caliphate spread Islam in to N.Africa and Spain
+    * In Abassid Caliphate the Islam empire shrinks a little bit
+
+* **Decline of Europe**
+    * 400s CE, Roman Empire fell with no replacement (another strong empire)
+    * Replaced with small weak kingdoms
+    * Not many resources to support education, technology, etc. (called the **"dark ages"**)
+        - These stuff still happen but WAY less than Roman/Greek Empires
+
+* **Expansion of Trade Networks**
+    * **TWO IMPORTANT THINGS**
+    1. In Period 1-2, Muslims are the dominant traders in the world (Islam empires support and respect (a lot) merchants, opportunity to get money + spread Islam + get status)
+    2. In Period 1-2, Muslims spread their knowledge in the world (original knowledge, *contemporary* societies (others from the same time), past societies (House of Wisdom))
+
+* Now we can get back to the **House of Wisdom**
+    * **Where?** Baghdad (capital of Abbasid Caliphate)
+    * **When?** 800s - 1258
+    * **What?** We don't know because it was destroyed by the Mongols as they took over
+    * **What does it do?**
+        1. Translation Center
+        2. Library (not the only library, but **illuminated manuscripts**: "a fancy book", cover is fragrant wood that smells good, pages are decorated with gold, solver, etc.)
+    * Some of the books are more art than books: they look great but don't have a lot of text, etc.
+* Well, another detour: **Abbasid Caliphate**
+    * Very diverse and tolerant, much more peaceful than the Umayyads
+    * Promotes culture, art, and learning
+    * Invites scholars from all over the world
+    * Translate text, hsare knowledge, and now we end up with the House
+* People you should know
+    * **Caliph al Mansur**: Founder of Baghdad
+        * Ordered the Palace Library's construction, collected as many books as possible
+        * Adopts Persian influences
+    * **Caliph al Ma'mun** (the ' makes a "H" sound): a nerd
+        * War with the Byzantine Empire, they win, Ma'mun: I'm gonna fight until I get that book that I really wanted for a long time
+        * Invites Jewish and Indian scholars
+        * Went to Egypt to help excavate (dig out) pyramids
+        * Ordered more accurate world maps
+        * Built the first observatory, the astronomical type
+    * **Al Khwarizmi**: Wrote a book called *al-Jabr* abouot Algebra in 820 CE
+        * Brought in Hindu numerics and now they're called "Arabic numerals"
+        * Took *Geography* from Ptolemy and CORRECTED IT
+        * Wrote books to make/use astrolabes
