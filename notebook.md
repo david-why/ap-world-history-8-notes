@@ -61,4 +61,51 @@ Cultural traditions
 * Super big effects in China
     1. Population explosion: Population *DOUBLES*! End of Song, China = 40% population of world
     2. Political safety: Mandate of Heaven kept even with 1012 drought
-    3. Food security => More specialization: No need to wonder where the next meal will come from, so people can pend time worrying about specializing and getting better at what they like
+    3. Food security => More specialization: No need to wonder where the next meal will come from, so people can pend time worrying about specializing and getting better at what they like doing
+
+
+## 1.2 Developments in Dar al-Islam
+* Dar al-Islam: lit. "the house of Islam", anywhere where Islam is the main religion
+* In 1200, includes Middle East, North Africa, SW Europe, and more of South Asia
+* Things to talk about:
+    1. The rise to power of **Turkic** Muslim people
+    2. The spread of Islam
+
+### Rise of Islam
+* As Abbasid Caliphate dissolves, new Islamic states emerge
+    - **Continuity** in innovation and diversity (in religions, ethnic, culture)
+* ***CED***: Seljik Turks
+    - Muslims from Central Asia, conquered parts of Middle East
+    - Leader: **Sultan** (sol-TANG), head of state, only political power
+    - Before that were **Caliph**s: Leader of Muslim community, religious power, but now they're gone
+    - Some Sultans try to be a Caliph but that's almost never successful
+    - Important things done: Captured Jerusalem, Christians can't get there any more
+        - Christians went on a lot of **Crusades** to try to reclaim the holy land, some of which almost didn't fail
+        - Weakened the church, made outer world visible to Europeans which encourages exploration (there are so much good stuff like spices, tea, etc.)
+* ***CED***: Mamluks
+    - Enslaved Turks bought by Arabs, but treated relatively well as slaves (some can get some power/money)
+    - Mamluks took control of much of Egypt and the Mamluk **Sultanate** lasted 300 years
+    - *(They were so good at fighting they won against the Mongols)*
+* ***CED***: Delhi Sultanate
+    - Took control of some of South Asia
+    - Islam appeals to low caste Hindus, grew popular where Hinduism was weaker
+    - A lot of violence at the start (Hinduism polytheistic, Islam monotheistic)
+    - Low number of Turks ruling many people
+* Continuity
+    - Continue religion tolerance
+    - Continue innovation, science, medicine
+    - **House of Wisdom**: Translate ancient books from Rome etc., make more advancements
+
+### Spread of Islam
+1. Trade
+    - Mostly an accident that the religion spreads
+    - Run into people who are interested in the religion
+    - Some people pretend to convert just to trade better
+2. War / Conquest
+    - Biggest place: Jerusalem
+    - Another place: **Spain**
+3. Missionaries
+    - People who run around, knock on your door, and say, "Have you hear of our prophet?"
+    - A group of people: **Sufis** (Sufism is a type of Islam)
+        - *Mystics*, a personal form of the religion, doesn't rely on book/leader, they form a relationship with their own religion
+        - People talking to mystics are likely going to get interested in the religion and convert
