@@ -78,7 +78,7 @@ Cultural traditions
 * ***CED***: Seljik Turks
     - Muslims from Central Asia, conquered parts of Middle East
     - Leader: **Sultan** (sol-TANG), head of state, only political power
-    - Before that were **Caliph**s: Leader of Muslim community, religious power, but now they're gone
+    - Before that were **Caliph**s: Leader of Muslim community, ~religious power, but now they're gone~ they used to be rulers of the Caliphate but now are only religious leaders
     - Some Sultans try to be a Caliph but that's almost never successful
     - Important things done: Captured Jerusalem, Christians can't get there any more
         - Christians went on a lot of **Crusades** to try to reclaim the holy land, some of which almost didn't fail
