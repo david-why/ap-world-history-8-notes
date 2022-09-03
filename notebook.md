@@ -62,7 +62,6 @@ Cultural traditions
 * Super big effects in China
     1. Population explosion: Population *DOUBLES*! End of Song, China = 40% population of world
     2. Political safety: Mandate of Heaven kept even with 1012 drought
-<<<<<<< HEAD
     3. Food security => More specialization: No need to wonder where the next meal will come from, so people can pend time worrying about specializing and getting better at what they like doing
 
 
@@ -111,8 +110,6 @@ Cultural traditions
     - A group of people: **Sufis** (Sufism is a type of Islam)
         - *Mystics*, a personal form of the religion, doesn't rely on book/leader, they form a relationship with their own religion
         - People talking to mystics are likely going to get interested in the religion and convert
-=======
-    3. Food security => More specialization: No need to wonder where the next meal will come from, so people can pend time worrying about specializing and getting better at what they like
 
 ### Intellectual innovation
 * Three things
@@ -171,4 +168,3 @@ Cultural traditions
         * Brought in Hindu numerics and now they're called "Arabic numerals"
         * Took *Geography* from Ptolemy and CORRECTED IT
         * Wrote books to make/use astrolabes
->>>>>>> 78f5f54ac585f0d09cd91d9295b6c87f55c99638
